@@ -1,6 +1,6 @@
 # Trabalho Final AED - Angelo e Diogo Fornelos
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 O objetivo deste trabalho de grupo é desenvolver um programa em C para efetuar a gestão de um dia de atividade dum grande supermercado. O sistema lida com os seguintes cenários principais:
 
@@ -11,7 +11,7 @@ O objetivo deste trabalho de grupo é desenvolver um programa em C para efetuar 
 
 ---
 
-## 📂 Estrutura de Diretórios e Ficheiros
+##  Estrutura de Diretórios e Ficheiros
 
 O projeto está dividido em duas partes principais: uma biblioteca geral de estruturas de dados e a implementação específica do programa do supermercado.
 
